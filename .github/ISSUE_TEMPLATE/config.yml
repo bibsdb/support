@@ -8,9 +8,5 @@ issue_templates:
   - name: Bug report
     description: Report a bug in the project
     labels: [bug]
-  - name: Feature request
-    description: Suggest a new feature or enhancement
-    labels: [enhancement]
-  - name: Form Bug Report
-    description: Help us improve our documentation
-    labels: [documentation]
+    file: bug_report.yml
+
