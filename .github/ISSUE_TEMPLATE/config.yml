@@ -1,12 +1,7 @@
 blank_issues_enabled: false
-contact_links:
-  - name: Support
-    url: https://example.com/support
-    about: If you have questions, visit our support page to get in touch with our team.
 
 issue_templates:
   - name: Bug report
     description: Report a bug in the project
     labels: [bug]
     file: bug_report.yml
-
